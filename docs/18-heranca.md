@@ -519,11 +519,11 @@ A seguir, as mãos possíveis no pôquer, em ordem crescente de valor e ordem de
 
 A meta desses exercícios é estimar a probabilidade de ter estas várias mãos.
 
-1. Baixe os seguintes arquivos de http://thinkpython2.com/code:
+1. Baixe os seguintes arquivos:
 
- * `Card.py`: Versão completa das classes Card, Deck e Hand deste capítulo.
+ * [`Card.py`](https://github.com/AllenDowney/ThinkPython2/raw/master/code/Card.py): Versão completa das classes Card, Deck e Hand deste capítulo.
 
- * `PokerHand.py`: Uma implementação incompleta de uma classe que representa uma mão de pôquer e código para testá-la.
+ * [`PokerHand.py`](https://github.com/AllenDowney/ThinkPython2/raw/master/code/PokerHand.py): Uma implementação incompleta de uma classe que representa uma mão de pôquer e código para testá-la.
 
 2. Se executar PokerHand.py, você verá que o programa cria mãos de pôquer com 7 cartas e verifica se alguma delas contém um flush. Leia este código com atenção antes de continuar.
 
